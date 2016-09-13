@@ -91,3 +91,4 @@ ENV/
 # Input/Output files
 schedule.ics
 schedule.csv
+.DS_Store
